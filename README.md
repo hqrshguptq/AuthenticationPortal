@@ -9,7 +9,7 @@ STEPS TO RUN APP:
 
 2.	Just migrate to the downloaded folder within a terminal/cmd.
 
-3.	Then just type: npm run dev in terminal.
+3.	Then just type: "npm run dev" in terminal.
 
 4.	 Now in browser , open localhost:5000
 
